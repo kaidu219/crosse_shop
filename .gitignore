@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# dotenv
+.env
+
+/.idea
+*.sqlite3
+images
+media
+static
+
+
+# Django stuff:
+*.log
+local_settings.py
+.sock
+logs
+
+*.swp
+
+#FATIMA env
+
+django_server.sh
+
+media_old/
+*.json
